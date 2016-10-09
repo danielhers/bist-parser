@@ -1,4 +1,4 @@
-from pycnn import *
+from dynet import *
 from utils import read_conll, write_conll
 from operator import itemgetter
 import utils, time, random, decoder
